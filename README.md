@@ -2,7 +2,7 @@
 
 [![MasterHead](leandro-ferreira-github-skyline.gif)](https://instagram.com/leandro.zuck)
 
-<h1 align="center">Hi 👋, I'm Leandro</h1>
+<h1 align="center">Hi, I'm Leandro</h1>
 <h3 align="center">Dev at CompayZ</h3>
 
 <p align="center"> 
