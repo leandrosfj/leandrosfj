@@ -23,23 +23,6 @@
 <a href="https://instagram.com/leandro.sfj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leandro.sfj" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="center">My Stats:</h3>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrosfj&count_private=true&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="leandrosfj" />
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrosfj&theme=vue-dark&count_private=true" alt="leandrosfj" />
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosfj&theme=vue-dark&count_private=true&show_icons=true&locale=en" alt="leandrosfj" />
-</p>
-<br>
-<h3 align="center">Trophies:</h3>
-<p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=leandrosfj&theme=onestar" alt="leandrosfj" />
-</p>
-<br>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -70,6 +53,22 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>  
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
  </p>
+<br>
+<h3 align="center">My Stats:</h3>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrosfj&count_private=true&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="leandrosfj" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrosfj&theme=vue-dark&count_private=true" alt="leandrosfj" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosfj&theme=vue-dark&count_private=true&show_icons=true&locale=en" alt="leandrosfj" />
+</p>
+<br>
+<h3 align="center">Trophies:</h3>
+<p align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=leandrosfj&theme=onestar" alt="leandrosfj" />
+</p>
 <br>
 
 <a href="https://github.com/leandrosfj">
