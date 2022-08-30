@@ -2,20 +2,9 @@
 
 [![MasterHead](leandro-ferreira-github-skyline.gif)](https://instagram.com/leandro.zuck)
 
-<h1 align="center">Hi, I'm Leandro</h1>
-<h3 align="center">Dev at CompayZ</h3>
+<h1 align="center">Hi, I'm Leandro!</h1>
+<h3 align="center">Fullstack Dev at CompayZ</h3>
 
-<p align="center"> 
-  
-  <a href="https://github.com/leandrosfj" target="blank">
-  <img src="https://komarev.com/ghpvc/?username=leandrosfj&label=Profile%20views&color=0e75b6&style=flat" /> 
-  </a>
-  <a href="https://github.com/leandrosfj" target="blank">
-   <img src="https://img.shields.io/github/followers/leandrosfj?label=follow&style=social" /> 
-    </a>
-</p>
-
-<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -58,21 +47,9 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrosfj&count_private=true&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="leandrosfj" />
 </p>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrosfj&theme=vue-dark&count_private=true" alt="leandrosfj" />
-</p>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosfj&theme=vue-dark&count_private=true&show_icons=true&locale=en" alt="leandrosfj" />
 </p>
-<br>
-<h3 align="center">Trophies:</h3>
-<p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=leandrosfj&theme=onestar" alt="leandrosfj" />
-</p>
-<br>
-
-<a href="https://github.com/leandrosfj">
-  <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=leandrosfj&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
 
 
