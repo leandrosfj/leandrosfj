@@ -38,3 +38,11 @@
  </p>
 <br>
 
+<h3 align="center">My Stats:</h3>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrosfj&count_private=true&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="leandrosfj" />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosfj&theme=vue-dark&count_private=true&show_icons=true&locale=en" alt="leandrosfj" />
+</p>
