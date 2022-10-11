@@ -37,9 +37,10 @@
 
 <h3 align="center">My Stats</h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrosfj&count_private=true&show_icons=true&locale=en&layout=compact&theme=aura&hide=scss,less&card_width=445" alt="leandrosfj" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrosfj&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=scss,less&card_width=445" alt="leandrosfj" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosfj&hide=issues,contribs&theme=aura&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="leandrosfj" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosfj&hide=issues,contribs&theme=aura&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="leandrosfj" /> -->
+<img src='https://streak-stats.demolab.com?user=leandrosfj&theme=tokyonight&hide_border=false'/>
 </p>
