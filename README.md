@@ -1,9 +1,4 @@
-<!--- [![MasterHead](https://wallpaper.dog/large/20518448.png)](https://github.com/leandrosilvaferreira) --->
-
-[![MasterHead](leandro-ferreira-github-skyline.gif)](https://instagram.com/leandro.zuck)
-
 <h1 align="center">Hi, I'm Leandro!</h1>
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -11,7 +6,7 @@
 <a href="https://instagram.com/leandro.sfj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leandro.sfj" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Knowledge</h3>
 <p align="center"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -24,6 +19,8 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+</p>
+<p align="center">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -35,14 +32,14 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>  
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
- </p>
+</p>
 <br>
 
-<h3 align="center">My Stats:</h3>
+<h3 align="center">My Stats</h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrosfj&count_private=true&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="leandrosfj" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrosfj&count_private=true&show_icons=true&locale=en&layout=compact&theme=aura&hide=scss,less&card_width=445" alt="leandrosfj" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosfj&theme=vue-dark&count_private=true&show_icons=true&locale=en" alt="leandrosfj" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosfj&hide=issues,contribs&theme=aura&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="leandrosfj" />
 </p>
